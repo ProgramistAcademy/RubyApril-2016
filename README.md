@@ -1,5 +1,4 @@
-# RubyMarch-2016
-Ruby Essential Training
+# Ruby Essential Training - March 2016
 
 The Github repo for the first course from Academy Programist - "Ruby Essential Training".
 
@@ -7,9 +6,9 @@ Different materials will be commited here. Mosty programming tasks and source co
 
 Content will be separated in different folders, for the given week, starting with week0.
 
-How to use this repository
+#How to use this repository
 
-he first separation if based on weeks - starting from week 1.
+The first separation if based on weeks - starting from week 1.
 
 In each week, there are markdown files with task descriptions in them.
 
