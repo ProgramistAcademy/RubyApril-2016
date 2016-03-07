@@ -1,4 +1,4 @@
-# Ruby Essential Training - March 2016
+# Ruby Essential Training - April 2016
 
 The Github repo for the first course from Academy Programist - "Ruby Essential Training".
 
